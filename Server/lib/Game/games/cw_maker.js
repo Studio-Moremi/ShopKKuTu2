@@ -16,7 +16,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-﻿var Prompt = require('prompt');
+var Prompt = require('prompt');
 var DB = require('../../Web/db');
 var Const = require('../../const');
 var Lizard = require('../../sub/lizard');
@@ -60,7 +60,6 @@ DB.ready = function(){
 				}
 				console.log(s);
 			}
-			console.log("\007");
 			for(i in data.map.queue){
 				s = data.map.queue[i];
 				t = data.board[`${s[0]},${s[1]}`];

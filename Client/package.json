@@ -1,7 +1,7 @@
 {
   "name": "kkutu",
   "version": "1.0.0",
-  "description": "플러스끄투 클라이언트",
+  "description": "상점끄투 클라이언트",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -46,7 +46,7 @@
       "allowToChangeInstallationDirectory": true,
       "language": 1042,
       "include": "build/installer.nsh",
-      "shortcutName": "플러스끄투",
+      "shortcutName": "상점끄투",
       "artifactName": "install-${version}.${ext}"
     },
     "directories": {

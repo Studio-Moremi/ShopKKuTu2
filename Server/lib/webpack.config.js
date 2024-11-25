@@ -6,6 +6,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 const LICENSE = [
 	"Copyright (C) 2024 Studio Moremi",
 	"Fork form PlusKKuTu",
+	"Copyright (C) 2024 Studio Moremi(support@studio-moremi.kro.kr)",
 ].join('\n');
 
 class ConcatPlugin{

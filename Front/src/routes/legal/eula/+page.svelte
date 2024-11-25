@@ -8,5 +8,5 @@
   </script>
   
   <svelte:head>
-      <title>플러스끄투 - {title}</title>
+      <title>상점끄투 - {title}</title>
   </svelte:head>
