@@ -13,6 +13,7 @@
 - 본 프로젝트는 [KKuTuIO](https://github.com/KKuTuIO)의 KKuTu-Game을 일부 포함하고 있습니다.
 - 본 프로젝트는 [pinkleaves](https://github.com/pinkleaves)의 [KKuTu](https://github.com/pinkleaves/KKuTu)를 일부 포함하고 있습니다.
 - 본 프로젝트는 [PrjKKuTu](https://github.com/PrjKKuTu)의 [KKuTu](https://github.com/PrjKKuTu/KKuTu)를 일부 포함하고 있습니다.
+- 본 프로젝트는 [PlusKKuTu](https://github.com/PlusKkuTu/PlusKkuTu)의 레포지토리를 포크했습니다.
 ## 한국어
 > 글자로 놀자! 끄투 온라인
 
